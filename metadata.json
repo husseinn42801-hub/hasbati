@@ -1,0 +1,6 @@
+{
+  "name": "حاسباتي - منصة الحاسبات والأدوات المجانية",
+  "description": "منصة عربية سريعة ومجانية للحاسبات وأدوات التحويل اليومية والمالية والصحية والرياضية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
